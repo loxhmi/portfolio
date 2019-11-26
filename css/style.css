@@ -1,0 +1,29 @@
+body {
+  background-color: #7EAB54;
+  font-family: "verdana";
+}
+
+h1 {
+  color: indigo;
+  font-family: "Georgia";
+}
+
+p {
+  color: black;
+  font-family: "courier";
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+  background-color: yellow;
+  display: inline;
+}
+
+a:hover {
+  background-color: orange;
+}
+
+img {
+
+}
